@@ -1,0 +1,27 @@
+{
+	"name": "betterdiscordpanel",
+	"version": "2.7.1",
+	"description": "",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {},
+	"scripts": {
+		"test": ""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sanjaysunil/betterdiscordpanel.git"
+	},
+	"keywords": [
+		"discord",
+		"panel",
+		"betterdiscordpanel",
+		"dashboard"
+	],
+	"author": "Sanjay Sunil",
+	"license": "GPL-3.0",
+	"bugs": {
+		"url": "https://github.com/sanjaysunil/betterdiscordpanel/issues"
+	},
+	"homepage": "https://github.com/sanjaysunil/betterdiscordpanel#readme"
+}
